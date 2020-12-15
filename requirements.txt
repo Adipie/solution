@@ -1,0 +1,4 @@
+multidict==5.1.0
+PyJWT==1.7.1
+sanic==20.9.1
+sanic-jwt==1.5.0
